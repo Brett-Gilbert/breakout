@@ -29,7 +29,7 @@
 				x += dx;
 				y += dy;
 			}
-			setInterval(draw, 10);asdf
+			setInterval(draw, 10);
 		</script>
 
 	</body>
